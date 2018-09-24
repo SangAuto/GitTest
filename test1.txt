@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is B402-8389
+
+ Directory of C:\Users\X002028\Desktop\GitTutorial
+
+24-09-2018  16:12    <DIR>          .
+24-09-2018  16:12    <DIR>          ..
+24-09-2018  16:12                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  325.923.250.176 bytes free
